@@ -1,7 +1,7 @@
 #Fairus De La Cruz, Multiple Pages Notes
 
 
-#from calc import addition as add, subtraction as sub
+from calc import addition as add, subtraction as sub
 
 #print(add())
 #print(sub(20,9))
